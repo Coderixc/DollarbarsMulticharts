@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F36DE71A-0632-467B-854A-DEB8927DCEC1}") = "DollarbarsMulticharts", "DollarbarsMulticharts\DollarbarsMulticharts.csproj", "{0B0F6EA0-5DC6-4C74-AA5C-7AE4911A3C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B0F6EA0-5DC6-4C74-AA5C-7AE4911A3C09}.Debug|x64.ActiveCfg = Debug|x64
+		{0B0F6EA0-5DC6-4C74-AA5C-7AE4911A3C09}.Debug|x64.Build.0 = Debug|x64
+		{0B0F6EA0-5DC6-4C74-AA5C-7AE4911A3C09}.Debug|x86.ActiveCfg = Debug|x86
+		{0B0F6EA0-5DC6-4C74-AA5C-7AE4911A3C09}.Debug|x86.Build.0 = Debug|x86
+		{0B0F6EA0-5DC6-4C74-AA5C-7AE4911A3C09}.Release|x64.ActiveCfg = Release|x64
+		{0B0F6EA0-5DC6-4C74-AA5C-7AE4911A3C09}.Release|x64.Build.0 = Release|x64
+		{0B0F6EA0-5DC6-4C74-AA5C-7AE4911A3C09}.Release|x86.ActiveCfg = Release|x86
+		{0B0F6EA0-5DC6-4C74-AA5C-7AE4911A3C09}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
